@@ -1,8 +1,13 @@
 Desde srv.py:
+  
   rec para grabar
+  
   play para reproducir
+  
   stop para detener tanto la grabacion como la reproducion
+  
   send recolecta los audios de todos los clientes conectados
+  
   close cierra conexion con los clientes y detiene los bucles 
 
 Para conpilar en Android:
@@ -15,9 +20,9 @@ Para conpilar en Android:
 
   Modificar AndroidManifest.xml agregando: 
   
-  <application 
-      #
-      #
-      android:requestLegacyExternalStorage="true">  
+    <application 
+        #
+        #
+        android:requestLegacyExternalStorage="true">  
 
   
