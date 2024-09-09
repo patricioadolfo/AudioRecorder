@@ -25,4 +25,8 @@ Para conpilar en Android:
         #
         android:requestLegacyExternalStorage="true">  
 
+  Para Linux desablilitar firewal:
+
+    sudo ufw disable
+
   
